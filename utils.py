@@ -63,12 +63,6 @@ f.close()
 del f
 
 
-tasks_definitions_cache = None
-tasks_instances_cache = None
-non_published_cache = None
-tasks_attachments_cache = {}
-
-
 def format_size(size):
     if not size:
         return 'Empty'
