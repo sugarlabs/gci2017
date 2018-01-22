@@ -1,0 +1,44 @@
+<svg id="Group_1" data-name="Group 1" xmlns="http://www.w3.org/2000/svg" viewBox="37 69 249 217">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fe470e;
+      }
+
+      .cls-2 {
+        fill: #1dd6bd;
+      }
+
+      .cls-3 {
+        fill: #0ec7f1;
+      }
+
+      .cls-4 {
+        fill: #54d50e;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #feb60c;
+        font-family: Righteous-Regular, Righteous;
+      }
+
+      .cls-5 {
+        font-size: 86px;
+      }
+
+      .cls-6 {
+        font-size: 53px;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_2" data-name="Rectangle 2" class="cls-1" width="11" height="64" transform="translate(84 69)"/>
+  <rect id="Rectangle_6" data-name="Rectangle 6" class="cls-2" width="11" height="71.092" transform="translate(84 149)"/>
+  <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-3" width="11.887" height="71.092" transform="translate(210.87 149)"/>
+  <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-4" width="11.303" height="64" transform="translate(208.453 69)"/>
+  <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-1" width="59" height="10" transform="translate(84 69)"/>
+  <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-2" width="59" height="11.108" transform="translate(84 208.984)"/>
+  <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-3" width="63.756" height="11.108" transform="translate(159 208.984)"/>
+  <rect id="Rectangle_5" data-name="Rectangle 5" class="cls-4" width="60.626" height="10" transform="translate(159.131 69)"/>
+  <text id="s" class="cls-5" transform="translate(131 172)"><tspan x="0" y="0">s</tspan></text>
+  <text id="sugarlabs" class="cls-6" transform="translate(37 272)"><tspan x="0" y="0">sugarlabs</tspan></text>
+</svg>

@@ -1,0 +1,10 @@
+﻿joshi@joshi-Lenovo-G50-80:~$ sudo git clone https://github.com/llaske/sugarizer-server
+Cloning into 'sugarizer-server'...
+remote: Counting objects: 1582, done.
+remote: Total 1582 (delta 0), reused 0 (delta 0), pack-reused 1582
+Receiving objects: 100% (1582/1582), 1.26 MiB | 800.00 KiB/s, done.
+Resolving deltas: 100% (930/930), done.
+Checking connectivity... done.
+joshi@joshi-Lenovo-G50-80:~$ cd /home/joshi/sugarizer-server
+joshi@joshi-Lenovo-G50-80:~/sugarizer-server$ sudo npm install
+sudo: npm: command not found

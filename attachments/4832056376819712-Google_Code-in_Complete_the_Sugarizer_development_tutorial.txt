@@ -1,0 +1,79 @@
+Difficulties:
+	Step 0:
+		Tried 8 times to download sugarizer-dev.zip. Failed 7 times due to network error.
+		Not sure where to type 'cd sugarizer-dev'
+		The line 'chrome --allow-file-access-from-files index.html' gives error: 'chrome is not recognisable ...', when the line is typed in the command prompt.
+	Step 1:
+		Index.html only shows toolbar after changing the three files as stated in step 1 tutorial. Cleared browser cache and solved it (following mentor's instruction).
+	Step 2:
+		Pawn color not changed even though it is supposed to change. Cause: overlook ';' in '&fill_color;' and '&stroke_color;'
+	Step 3:
+		Cannot get user name from currentenv due to launching Pawn.activity/index.html directly without launching Sugarizer/index.html first.
+	Step 4:
+		Pawn colour not changed even though it is suppose to change colour to follow user's colour. (Caused by mistake in step 2)
+	Step 5:
+		-
+	Step 6:
+		In the setting for network, user name or password is sometimes invalid, but I don't understand how it is invalid.
+	
+	
+	
+Parts that need more clarification:
+	Step 0:
+		Should state clearer where to type the command lines and how to change the command lines to work on the user's computer (Command Prompt, etc.)
+		For example, for the 'cd sugarizer-dev' command line, you state that this line navigates to the sugarizer-dev directory. But this line does not work on all computer because the directory differs from computer to computer. You should include a link to a website which shows how to navigate to a desired directory in command prompt.
+		Similarly, you should state that 'chrome --allow-file-access-from-files index.html' only works in the folder where the chrome application is in, and index.html may need to be replaced by the path to index.html, such as something like "file:///C:/Users/Username/Downloads/sugarizer-dev/index.html".
+	Step 1:
+		Should state how to edit the contents in .info and .html files, e.g. using notepad ++.
+		Should state clearer where to find activities.json of the Sugarizer, for example 'inside Sugarizer folder, but outside the subfolders'.
+	Step 2:
+		Should state clearer where to create icons directory. You state that create it in 'your activity', but there are two activities: Pawn.activity and Pawn.activity/Activity, so "your activity" is vague.
+		Typo at last line: "Congratulation! the welcome message will no appear". The 'no' should be 'now'.
+		In the line "Then we will replace raw colors value #xxxxxx in the SVG file, by reference to &fill_color; and &stroke_color;.", it may be good to highlight the semicolons after &fill_color and &stroke_color as some user (like me) may overlook it. It may also help to state that all original color values associated with fill_color and stroke_color need to be replace.
+	Step 3:
+		-
+	Step 4:
+		You may want to state that the popup menu on Paint icon takes a while to appear. Initially, I thought that it doesn't work as it does not show when my cursor stays on the icon for a while.
+	Step 5:
+		Should state how to create locale.ini, e.g. using notepad++, and possibly provide a link to download notepad++.
+		The line "So we will now initialize the welcome message in the localized event listener like that, at the end of activity/activity.js file:" is not clear. The 'end of activity/activity.js file' is vague. Is it after define, after require, or in the end of require?
+	Step 6:
+		The line "This palette must be initialized in the code. You just have to call the PresencePalette constructor with the toolbar element. So add this line into activity/activity.js:" is not clear. Which part of activity.js should I add the line into? You should be more specific, e.g. 'into the end of the require of activity/activity.js' or 'after <some code>'.
+
+
+Time on each step: (time in 24-hour format)
+	Step 0: 
+		1000-1123 download Sugarizer
+		1124-1127 unzip Sugarizer
+		1127-1152 the rest of Step 0
+		111 minutes
+	Step 1: 
+		1640-1757 Ask mentor for help -> continue trying to solve problem -> give up
+		1915-1930 See mentor's reply -> solve issue -> continue and finish Step 1
+		92 minutes
+	Step 2: 
+		1931-1951 Finish Step 2 (with mistakes in pawn color)
+		1248-1310 Read mentor reply -> cannot solve issue -> try to solve issue-> give up
+		1940-1948 Read mentor reply -> cannot solve issue -> try to solve issue-> give up
+		0545-0703 Read mentor reply -> solve part of issue -> ask mentor
+		1012-1029 Try to solve issue. Make small progress.
+		2000-2032 Found mistake -> FINALLY SOLVE!!!
+		177 minutes
+	Step 3: 
+		1957-2111 Ask mentor for help -> give up on trying
+		0619-0700 Delete Pawn.activity and redo everything 
+				  -> face issue (Pawn colour not changing, caused by mistake in step 2) -> give up and ask mentor for help
+				  Fix the mistake in step 2.
+		115 minutes
+	Step 4: 
+		2025-2050 Finish Step 4
+		25 minutes
+	Step 5: 
+		2051-2107 Finish Step 5
+		16 minutes
+	Step 6: 
+		2107-2120 Do
+		2220-2259 Do
+		0545-0625 Everything done except color of pawn not changing based in user's colour
+		92 minutes
+	Total: 628 minutes = 10 hours 28 minutes

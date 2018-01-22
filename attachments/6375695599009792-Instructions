@@ -1,0 +1,14 @@
+By:Atharv Sapre
+
+Before starting make sure that you have arduino ide installed
+If not download from here: https://www.arduino.cc/en/Main/Software
+
+Then upload the Python_Control.ino to your arduino
+
+After uploading that code 
+
+Before running the script be sure that you have the 
+"serial" header file installed
+"pygobject" header file installed
+
+Run the python code Arduino_LED_On_Off.py

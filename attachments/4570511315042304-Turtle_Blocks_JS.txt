@@ -1,0 +1,33 @@
+                                                               TURTLE BLOCKS JAVASCRIPT
+  Turtle Block JS(JAVASCRIPT): is one of the SUGARLABS Activity that has built-in(Logo-Inspired Graphical turtle) with full ability to draw colorful art
+  coupled with visual programming elements.Turtle Blocks can be used to experience or get in touch with the basic concepts in programming, mathematics,
+  multimedia and designs.Presentations can be easily made with the help of a portfolio feature in turtle block js.
+           Turtle Block JS is a very simple and easy to use development environment(for designs and programming). Its "low floor" provides an easy entry
+  point for beginners. It also has "high ceiling" programming,and Computer Science features which will challenge many students and users who are interested
+  in progamming and designs.It comprises of very usefull,simple and understanding features for designs and programming.All the features can be self-taught
+  due to their tags and title.
+                                                  SOME BASIC FEATURES AND BUTTONS IN TURTLE BLOCK JAVASCRIPT
+ 1.PALETTE:This is a toolbar that contains other sub-buttons(that comes in form of blocks), normally they are been dragged to the main layout
+   development environment.This toolbar contains some cool and very useful block features example:
+   a.TURTLE:It comes with some useful attributes like:"forward,back,left,right,set heading and many more.
+   b.PEN:It's own attributes(blocks) include:set color,set grey,pen up,set shade and many more.
+   c.NUMBER:It,s attributes comes self-explained from its title(it comprises of Numbers and arithmetric operators) examples are:100,+,-,* and so many others.
+   d.BOOLEAN:It deals with this attributes:not,and,or,<,> and so on.
+
+ 2.RUN:Comes in form of a big play button or rabbit.It's used to run projects at full speed.But a long press slows it down.There is also a way to
+   run projects step by step.
+ 
+ 3.STOP:It's used to stop the current project.
+
+ 4.CLEAN:It's represented with a very big eraser image that is used to clear the screen and return the turtles to their initial positions.
+
+ 5.SHOW/HIDE PALETTES:It is used to hide and show block palettes.
+
+ 6.SHOW/HIDE BLOCKS:It is used to hide and also show blocks and palettes.
+
+       We still have many more features like:Expand/collapse collapsable blocks,Home,Expand/collapse option toolbar,Load samples from server,Load projects
+       from files,save project,copy,paste and many more useful features that makes turtle block js very simple and usefull.Its very very helpful because
+       its very easy to use,saves a lot of time very educative and so many other importance i cant really mention because much they are...
+            When i started using turtle block js for the very first time i only experienced the problems of getting rid of the blocks already dragged into
+             the layout environment.
+       

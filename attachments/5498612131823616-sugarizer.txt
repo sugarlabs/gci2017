@@ -1,0 +1,14 @@
+﻿joshi@joshi-Lenovo-G50-80:~/sugarizer-server$ sudo mongod --fork --port 27018 --logpath /home/root/mongo.log
+about to fork child process, waiting until server is ready for connections.
+forked process: 13983
+ERROR: child process failed, exited with error number 1
+joshi@joshi-Lenovo-G50-80:~/sugarizer-server$ sudo mongod --fork --port 27018 --logpath /home/joshi/mongo.log
+about to fork child process, waiting until server is ready for connections.
+forked process: 13988
+sudo nohup node sugarizer.js > /home/root/sugarizer.log &child process started successfully, parent exiting
+joshi@joshi-Lenovo-G50-80:~/sugarizer-server$ sudo nohup node sugarizer.js > /home/joshi/sugarizer.log &
+[1] 14008
+joshi@joshi-Lenovo-G50-80:~/sugarizer-server$ nohup: ignoring input and redirecting stderr to stdout
+joshi@joshi-Lenovo-G50-80:~/sugarizer-server$ 
+[1]+  Exit 127                sudo nohup node sugarizer.js > /home/joshi/sugarizer.log
+joshi@joshi-Lenovo-G50-80:~/sugarizer-server$ sudo nohup node sugarizer.js > /home/joshi/sugarizer.log &

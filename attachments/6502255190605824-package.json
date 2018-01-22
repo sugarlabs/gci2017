@@ -1,0 +1,22 @@
+{
+  "name": "hello",
+  "version": "0.0.0",
+  "description": "nodejs program to print heloo world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepso7/nodejs-hello.git"
+  },
+  "author": "deeps",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepso7/nodejs-hello/issues"
+  },
+  "homepage": "https://github.com/deepso7/nodejs-hello#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
